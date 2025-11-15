@@ -1,3 +1,3 @@
 x = 2
 y = 4
-print("Esta suma da:", {x} + {y})
+print("Esta suma da como resultado:", {x} + {y})
